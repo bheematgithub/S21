@@ -1,5 +1,3 @@
----
-
 # Samsung S21 Product Page
 
 ## Description
@@ -17,5 +15,3 @@ This project is a static website product page for the Samsung S21 phone. The pag
 - **CSS**: Primarily Bootstrap for styling and layout.
 - **JavaScript**: For interactive elements and dynamic features.
 - **Bootstrap**: To ensure the page is responsive and visually appealing.
-
----
